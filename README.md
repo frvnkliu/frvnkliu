@@ -1,5 +1,6 @@
 - Hi, I'm Frank Liu
 - You can reach me at: frvnkliu@gmail.com
+- A simple website with quick links to my projects: https://frvnkliu.github.io/personal-website-001/
 - Create a design with a Minimalist Graphic Editor (Shape Cards): http://3.82.120.206/
 - See how you can Predict Diabetes using Machine Learning: https://github.com/frvnkliu/diabetes-machine-learning
 - Check out this MNIST-style Image creator: https://frvnkliu.github.io/
