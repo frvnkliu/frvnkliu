@@ -1,5 +1,7 @@
 - Hi, I'm Frank Liu
 - You can reach me at: frvnkliu@gmail.com
+- Create a design with a Minimalist Graphic Editor (Shape Cards): http://3.82.120.206/
+- See how you can Predict Diabetes using Machine Learning: https://github.com/frvnkliu/diabetes-machine-learning
 - Check out this MNIST-style Image creator: https://frvnkliu.github.io/
 
 <!--
