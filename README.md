@@ -1,6 +1,7 @@
 - Hi, I'm Frank Liu
 - You can reach me at: frvnkliu@gmail.com
 - I'm Currently working on: https://frvnkliu.github.io/segmentron/
+- Jane Street Jan 2024 Puzzle Simulator: https://frvnkliu.github.io/SomeFSquares/
 - A simple website with quick links to my projects: https://frvnkliu.github.io/personal-website-001/
 - Create a design with a Minimalist Graphic Editor (Shape Cards): http://44.216.27.242/
 - See how you can Predict Diabetes using Machine Learning: https://github.com/frvnkliu/diabetes-machine-learning
