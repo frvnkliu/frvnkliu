@@ -1,6 +1,7 @@
 - Hi, I'm Frank Liu
 - You can reach me at: frvnkliu@gmail.com
 - I'm Currently working on: https://frvnkliu.github.io/segmentron/
+- Single Stock Order Book Simulator: https://github.com/frvnkliu/orderBookSimulator
 - Jane Street Jan 2024 Puzzle Simulator: https://frvnkliu.github.io/SomeFSquares/
 - A simple website with quick links to my projects: https://frvnkliu.github.io/personal-website-001/
 - Create a design with a Minimalist Graphic Editor (Shape Cards): http://44.216.27.242/
