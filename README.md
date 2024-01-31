@@ -3,7 +3,7 @@
 - I'm Currently working on: https://frvnkliu.github.io/segmentron/
 - Single Stock Order Book Simulator: https://github.com/frvnkliu/orderBookSimulator
 - Jane Street Jan 2024 Puzzle Simulator: https://frvnkliu.github.io/SomeFSquares/
-- A simple website with quick links to my projects: https://frvnkliu.github.io/personal-website-001/
+- A simple website with quick links to my projects: https://frvnk.xyz
 - Create a design with a Minimalist Graphic Editor (Shape Cards): http://44.216.27.242/
 - See how you can Predict Diabetes using Machine Learning: https://github.com/frvnkliu/diabetes-machine-learning
 - Check out this MNIST-style Image creator: https://frvnkliu.github.io/
